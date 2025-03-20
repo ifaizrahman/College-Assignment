@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ifaizrahman/College-Assignment/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ifaizrahman/College-Assignment/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/ifaizrahman/College-Assignment/tree/master/0274-h-index) |
 ## Matrix
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ifaizrahman/College-Assignment/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/ifaizrahman/College-Assignment/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ifaizrahman/College-Assignment/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
