@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ifaizrahman/College-Assignment/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/ifaizrahman/College-Assignment/tree/master/0274-h-index) |
+| [0792-binary-search](https://github.com/ifaizrahman/College-Assignment/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/ifaizrahman/College-Assignment/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
