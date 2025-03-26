@@ -28,7 +28,6 @@ class Solution {
                 e=mid-1;
             }
         }
-    
       }  
       return false;
     }
