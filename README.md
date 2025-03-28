@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ifaizrahman/College-Assignment/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/ifaizrahman/College-Assignment/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -87,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ifaizrahman/College-Assignment/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
