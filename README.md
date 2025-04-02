@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/ifaizrahman/College-Assignment/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2737-row-with-maximum-ones](https://github.com/ifaizrahman/College-Assignment/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ifaizrahman/College-Assignment/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ifaizrahman/College-Assignment/tree/master/0073-set-matrix-zeroes) |
+| [2737-row-with-maximum-ones](https://github.com/ifaizrahman/College-Assignment/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
