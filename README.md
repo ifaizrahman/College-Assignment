@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/ifaizrahman/College-Assignment/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ifaizrahman/College-Assignment/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ifaizrahman/College-Assignment/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ifaizrahman/College-Assignment/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
@@ -109,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ifaizrahman/College-Assignment/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
