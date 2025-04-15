@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/ifaizrahman/College-Assignment/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/ifaizrahman/College-Assignment/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ifaizrahman/College-Assignment/tree/master/1791-richest-customer-wealth) |
+| [2102-find-the-middle-index-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/ifaizrahman/College-Assignment/tree/master/2714-left-and-right-sum-differences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ifaizrahman/College-Assignment/tree/master/2714-left-and-right-sum-differences) |
 ## Linked List
 |  |
