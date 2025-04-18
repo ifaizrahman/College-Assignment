@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/ifaizrahman/College-Assignment/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/ifaizrahman/College-Assignment/tree/master/2737-row-with-maximum-ones) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/ifaizrahman/College-Assignment/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 ## Matrix
 |  |
 | ------- |
