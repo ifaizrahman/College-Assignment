@@ -11,7 +11,7 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode slow=head;
+       /* ListNode slow=head;
         ListNode fast=head;
 
         if(head == null || head.next == null) return false;
@@ -23,6 +23,18 @@ public class Solution {
             if(slow==fast){
                 return true;
             }
+        }
+        return false; */
+
+
+        HashSet<ListNode> visited = new HashSet<>();
+        ListNode current = head;
+        while (current != null) {
+            if (visited.contains(current)) {
+                return true;
+            }
+            visited.add(current);
+            current = current.next;
         }
         return false;
     }
