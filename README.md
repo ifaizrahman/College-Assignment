@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/ifaizrahman/College-Assignment/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ifaizrahman/College-Assignment/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ifaizrahman/College-Assignment/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
 ## Enumeration
 |  |
 | ------- |
