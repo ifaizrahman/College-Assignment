@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/ifaizrahman/College-Assignment/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/ifaizrahman/College-Assignment/tree/master/2737-row-with-maximum-ones) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/ifaizrahman/College-Assignment/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ifaizrahman/College-Assignment/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ifaizrahman/College-Assignment/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ifaizrahman/College-Assignment/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
