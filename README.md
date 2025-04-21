@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ifaizrahman/College-Assignment/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ifaizrahman/College-Assignment/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ifaizrahman/College-Assignment/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ifaizrahman/College-Assignment/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
