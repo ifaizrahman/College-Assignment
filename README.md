@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/0258-add-digits) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
