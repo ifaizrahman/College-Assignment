@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ifaizrahman/College-Assignment/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
+| [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ifaizrahman/College-Assignment/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
+| [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -213,5 +215,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ifaizrahman/College-Assignment/tree/master/0020-valid-parentheses) |
+| [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [2365-percentage-of-letter-in-string](https://github.com/ifaizrahman/College-Assignment/tree/master/2365-percentage-of-letter-in-string) |
+## Game Theory
+|  |
+| ------- |
+| [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 <!---LeetCode Topics End-->
