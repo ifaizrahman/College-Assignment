@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ifaizrahman/College-Assignment/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2714-left-and-right-sum-differences](https://github.com/ifaizrahman/College-Assignment/tree/master/2714-left-and-right-sum-differences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0229-majority-element-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting Sort
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ifaizrahman/College-Assignment/tree/master/2238-a-number-after-a-double-reversal) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ifaizrahman/College-Assignment/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
