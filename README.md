@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ifaizrahman/College-Assignment/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ifaizrahman/College-Assignment/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ifaizrahman/College-Assignment/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ifaizrahman/College-Assignment/tree/master/2238-a-number-after-a-double-reversal) |
