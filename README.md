@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ifaizrahman/College-Assignment/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ifaizrahman/College-Assignment/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/ifaizrahman/College-Assignment/tree/master/0742-to-lower-case) |
+| [1205-defanging-an-ip-address](https://github.com/ifaizrahman/College-Assignment/tree/master/1205-defanging-an-ip-address) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [2365-percentage-of-letter-in-string](https://github.com/ifaizrahman/College-Assignment/tree/master/2365-percentage-of-letter-in-string) |
 ## Game Theory
