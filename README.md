@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/ifaizrahman/College-Assignment/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/ifaizrahman/College-Assignment/tree/master/2737-row-with-maximum-ones) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/ifaizrahman/College-Assignment/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3221-find-the-peaks](https://github.com/ifaizrahman/College-Assignment/tree/master/3221-find-the-peaks) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ifaizrahman/College-Assignment/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/ifaizrahman/College-Assignment/tree/master/1656-count-good-triplets) |
+| [3221-find-the-peaks](https://github.com/ifaizrahman/College-Assignment/tree/master/3221-find-the-peaks) |
 ## Stack
 |  |
 | ------- |
