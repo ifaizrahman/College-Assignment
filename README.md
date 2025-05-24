@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/ifaizrahman/College-Assignment/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/ifaizrahman/College-Assignment/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ifaizrahman/College-Assignment/tree/master/1791-richest-customer-wealth) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ifaizrahman/College-Assignment/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/ifaizrahman/College-Assignment/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/2144-maximum-difference-between-increasing-elements) |
