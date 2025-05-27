@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ifaizrahman/College-Assignment/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/ifaizrahman/College-Assignment/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
 | [1168-duplicate-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/1168-duplicate-zeros) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1603-running-sum-of-1d-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
 | [1168-duplicate-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/1168-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ifaizrahman/College-Assignment/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
+| [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ifaizrahman/College-Assignment/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Hash Table
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/ifaizrahman/College-Assignment/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ifaizrahman/College-Assignment/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Enumeration
