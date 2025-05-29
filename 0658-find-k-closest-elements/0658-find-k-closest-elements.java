@@ -5,14 +5,6 @@ class Solution {
         int end=n-1;
         int idx=0;
         List<Integer> ls=new ArrayList<>();
-        
-        int min=Integer.MAX_VALUE;
-        for(int i=0;i<n;i++){
-            if(Math.abs(arr[i]-x)<min){
-                min=Math.abs(arr[i]-x);
-                idx=i;
-            }
-        }
 
         while(end-start +1 >k){
                 if((Math.abs(arr[end]-x)) < (Math.abs(arr[start]-x)) ){
