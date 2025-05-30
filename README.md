@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/ifaizrahman/College-Assignment/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/ifaizrahman/College-Assignment/tree/master/2737-row-with-maximum-ones) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/ifaizrahman/College-Assignment/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3194-find-words-containing-character](https://github.com/ifaizrahman/College-Assignment/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/ifaizrahman/College-Assignment/tree/master/3221-find-the-peaks) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ifaizrahman/College-Assignment/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/ifaizrahman/College-Assignment/tree/master/1205-defanging-an-ip-address) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [2365-percentage-of-letter-in-string](https://github.com/ifaizrahman/College-Assignment/tree/master/2365-percentage-of-letter-in-string) |
+| [3194-find-words-containing-character](https://github.com/ifaizrahman/College-Assignment/tree/master/3194-find-words-containing-character) |
 ## Game Theory
 |  |
 | ------- |
