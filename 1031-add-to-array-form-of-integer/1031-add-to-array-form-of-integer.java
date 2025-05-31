@@ -7,11 +7,11 @@ class Solution {
             if (i >= 0) {
                 k += num[i];
             }
-            result.addFirst(k % 10);
+            result.add(k % 10);
             k /= 10;
             i--;
         }
-
+        Collections.reverse(result);
         return result;
     }
 }
