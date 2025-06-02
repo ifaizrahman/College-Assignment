@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ifaizrahman/College-Assignment/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ifaizrahman/College-Assignment/tree/master/0274-h-index) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ifaizrahman/College-Assignment/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ifaizrahman/College-Assignment/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0268-missing-number) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
