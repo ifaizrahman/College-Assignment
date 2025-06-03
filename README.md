@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/ifaizrahman/College-Assignment/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/ifaizrahman/College-Assignment/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ifaizrahman/College-Assignment/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ifaizrahman/College-Assignment/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ifaizrahman/College-Assignment/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ifaizrahman/College-Assignment/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/ifaizrahman/College-Assignment/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0728-self-dividing-numbers) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ifaizrahman/College-Assignment/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ifaizrahman/College-Assignment/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ifaizrahman/College-Assignment/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/ifaizrahman/College-Assignment/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/ifaizrahman/College-Assignment/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/ifaizrahman/College-Assignment/tree/master/1205-defanging-an-ip-address) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
