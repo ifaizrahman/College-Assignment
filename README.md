@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/ifaizrahman/College-Assignment/tree/master/2350-find-closest-number-to-zero) |
+| [2465-shifting-letters-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ifaizrahman/College-Assignment/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ifaizrahman/College-Assignment/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2102-find-the-middle-index-in-array) |
+| [2465-shifting-letters-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/2465-shifting-letters-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ifaizrahman/College-Assignment/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2714-left-and-right-sum-differences](https://github.com/ifaizrahman/College-Assignment/tree/master/2714-left-and-right-sum-differences) |
 ## Linked List
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/ifaizrahman/College-Assignment/tree/master/1205-defanging-an-ip-address) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [2365-percentage-of-letter-in-string](https://github.com/ifaizrahman/College-Assignment/tree/master/2365-percentage-of-letter-in-string) |
+| [2465-shifting-letters-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/2465-shifting-letters-ii) |
 | [3194-find-words-containing-character](https://github.com/ifaizrahman/College-Assignment/tree/master/3194-find-words-containing-character) |
 ## Game Theory
 |  |
