@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/ifaizrahman/College-Assignment/tree/master/2350-find-closest-number-to-zero) |
 | [2465-shifting-letters-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ifaizrahman/College-Assignment/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ifaizrahman/College-Assignment/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ifaizrahman/College-Assignment/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ifaizrahman/College-Assignment/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ifaizrahman/College-Assignment/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ifaizrahman/College-Assignment/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-the-k-strongest-values-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ifaizrahman/College-Assignment/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ifaizrahman/College-Assignment/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ifaizrahman/College-Assignment/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ifaizrahman/College-Assignment/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Hash Table
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ifaizrahman/College-Assignment/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ifaizrahman/College-Assignment/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Divide and Conquer
 |  |
