@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ifaizrahman/College-Assignment/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/ifaizrahman/College-Assignment/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ifaizrahman/College-Assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0229-majority-element-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ifaizrahman/College-Assignment/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ifaizrahman/College-Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/ifaizrahman/College-Assignment/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
