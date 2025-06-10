@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ifaizrahman/College-Assignment/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ifaizrahman/College-Assignment/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/ifaizrahman/College-Assignment/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ifaizrahman/College-Assignment/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/ifaizrahman/College-Assignment/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/ifaizrahman/College-Assignment/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/0658-find-k-closest-elements) |
@@ -293,12 +295,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ifaizrahman/College-Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ifaizrahman/College-Assignment/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/ifaizrahman/College-Assignment/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ifaizrahman/College-Assignment/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/ifaizrahman/College-Assignment/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/ifaizrahman/College-Assignment/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/ifaizrahman/College-Assignment/tree/master/0890-lemonade-change) |
