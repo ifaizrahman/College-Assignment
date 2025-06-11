@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ifaizrahman/College-Assignment/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ifaizrahman/College-Assignment/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/ifaizrahman/College-Assignment/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/ifaizrahman/College-Assignment/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/1031-add-to-array-form-of-integer) |
 | [1033-broken-calculator](https://github.com/ifaizrahman/College-Assignment/tree/master/1033-broken-calculator) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ifaizrahman/College-Assignment/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/ifaizrahman/College-Assignment/tree/master/0435-non-overlapping-intervals) |
+| [1013-fibonacci-number](https://github.com/ifaizrahman/College-Assignment/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/0658-find-k-closest-elements) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ifaizrahman/College-Assignment/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
