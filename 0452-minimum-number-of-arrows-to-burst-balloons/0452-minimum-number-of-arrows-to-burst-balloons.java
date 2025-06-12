@@ -13,8 +13,7 @@ class Solution {
                 count++;
             }
         }
-        //count are the number of non overlapping intervals 
-        //so subtracting it fri=om total interval gives overlapping to  be removed
+        
         return count;
     }
 }
