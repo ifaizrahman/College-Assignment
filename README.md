@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/ifaizrahman/College-Assignment/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/ifaizrahman/College-Assignment/tree/master/3221-find-the-peaks) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ifaizrahman/College-Assignment/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ifaizrahman/College-Assignment/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Matrix
 |  |
 | ------- |
