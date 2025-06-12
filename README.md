@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ifaizrahman/College-Assignment/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/ifaizrahman/College-Assignment/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ifaizrahman/College-Assignment/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ifaizrahman/College-Assignment/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/ifaizrahman/College-Assignment/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
 | [1033-broken-calculator](https://github.com/ifaizrahman/College-Assignment/tree/master/1033-broken-calculator) |
