@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ifaizrahman/College-Assignment/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/ifaizrahman/College-Assignment/tree/master/0475-heaters) |
+| [0503-next-greater-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ifaizrahman/College-Assignment/tree/master/0605-can-place-flowers) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ifaizrahman/College-Assignment/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0503-next-greater-element-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ifaizrahman/College-Assignment/tree/master/1013-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
