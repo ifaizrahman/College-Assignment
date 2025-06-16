@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ifaizrahman/College-Assignment/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/ifaizrahman/College-Assignment/tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/ifaizrahman/College-Assignment/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/ifaizrahman/College-Assignment/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/ifaizrahman/College-Assignment/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/0658-find-k-closest-elements) |
+| [0875-longest-mountain-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ifaizrahman/College-Assignment/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
 | [1168-duplicate-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/1168-duplicate-zeros) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ifaizrahman/College-Assignment/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/ifaizrahman/College-Assignment/tree/master/0435-non-overlapping-intervals) |
+| [0875-longest-mountain-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/ifaizrahman/College-Assignment/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/ifaizrahman/College-Assignment/tree/master/1656-count-good-triplets) |
 | [3221-find-the-peaks](https://github.com/ifaizrahman/College-Assignment/tree/master/3221-find-the-peaks) |
 ## Stack
