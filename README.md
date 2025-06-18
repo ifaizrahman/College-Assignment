@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ifaizrahman/College-Assignment/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2245-destroying-asteroids](https://github.com/ifaizrahman/College-Assignment/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ifaizrahman/College-Assignment/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ifaizrahman/College-Assignment/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2245-destroying-asteroids](https://github.com/ifaizrahman/College-Assignment/tree/master/2245-destroying-asteroids) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ifaizrahman/College-Assignment/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ifaizrahman/College-Assignment/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ifaizrahman/College-Assignment/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ifaizrahman/College-Assignment/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2245-destroying-asteroids](https://github.com/ifaizrahman/College-Assignment/tree/master/2245-destroying-asteroids) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ifaizrahman/College-Assignment/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ifaizrahman/College-Assignment/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Enumeration
