@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/ifaizrahman/College-Assignment/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/ifaizrahman/College-Assignment/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ifaizrahman/College-Assignment/tree/master/1791-richest-customer-wealth) |
+| [1848-sum-of-unique-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ifaizrahman/College-Assignment/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/ifaizrahman/College-Assignment/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2102-find-the-middle-index-in-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ifaizrahman/College-Assignment/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/1848-sum-of-unique-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ifaizrahman/College-Assignment/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0229-majority-element-ii) |
+| [1848-sum-of-unique-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/1848-sum-of-unique-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
