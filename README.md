@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/ifaizrahman/College-Assignment/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ifaizrahman/College-Assignment/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1983-maximum-population-year](https://github.com/ifaizrahman/College-Assignment/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/ifaizrahman/College-Assignment/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0229-majority-element-ii) |
 | [1848-sum-of-unique-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/1848-sum-of-unique-elements) |
+| [1983-maximum-population-year](https://github.com/ifaizrahman/College-Assignment/tree/master/1983-maximum-population-year) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ifaizrahman/College-Assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ifaizrahman/College-Assignment/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1603-running-sum-of-1d-array) |
+| [1983-maximum-population-year](https://github.com/ifaizrahman/College-Assignment/tree/master/1983-maximum-population-year) |
 | [2102-find-the-middle-index-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2102-find-the-middle-index-in-array) |
 | [2465-shifting-letters-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/2465-shifting-letters-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ifaizrahman/College-Assignment/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
