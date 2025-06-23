@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/1031-add-to-array-form-of-integer) |
 | [1168-duplicate-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ifaizrahman/College-Assignment/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ifaizrahman/College-Assignment/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ifaizrahman/College-Assignment/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/1031-add-to-array-form-of-integer) |
 | [1033-broken-calculator](https://github.com/ifaizrahman/College-Assignment/tree/master/1033-broken-calculator) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ifaizrahman/College-Assignment/tree/master/2238-a-number-after-a-double-reversal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ifaizrahman/College-Assignment/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
