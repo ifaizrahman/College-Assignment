@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ifaizrahman/College-Assignment/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/ifaizrahman/College-Assignment/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ifaizrahman/College-Assignment/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ifaizrahman/College-Assignment/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/ifaizrahman/College-Assignment/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/ifaizrahman/College-Assignment/tree/master/1205-defanging-an-ip-address) |
 | [2039-sum-game](https://github.com/ifaizrahman/College-Assignment/tree/master/2039-sum-game) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ifaizrahman/College-Assignment/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2365-percentage-of-letter-in-string](https://github.com/ifaizrahman/College-Assignment/tree/master/2365-percentage-of-letter-in-string) |
 | [2465-shifting-letters-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/2465-shifting-letters-ii) |
 | [3194-find-words-containing-character](https://github.com/ifaizrahman/College-Assignment/tree/master/3194-find-words-containing-character) |
