@@ -14,19 +14,18 @@
  * }
  */
 class Solution {
-    public void preOrderTraversal(TreeNode root, ArrayList<Integer> arr){
+    public void inOrderTraversal(TreeNode root, ArrayList<Integer> arr){
         if(root == null)    return;
         
        
+        inOrderTraversal(root.left, arr);
         arr.add(root.val);
-        preOrderTraversal(root.left, arr);
-        preOrderTraversal(root.right, arr);      
+        inOrderTraversal(root.right, arr);      
     }
 
     int kthSmallest(TreeNode root, int k) {
         ArrayList<Integer> arr=new ArrayList<>();;
-        preOrderTraversal(root, arr);
-        Collections.sort(arr);
+        inOrderTraversal(root, arr);
         return arr.get(k - 1);
     }
 
