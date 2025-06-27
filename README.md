@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ifaizrahman/College-Assignment/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ifaizrahman/College-Assignment/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/ifaizrahman/College-Assignment/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/1848-sum-of-unique-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ifaizrahman/College-Assignment/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ifaizrahman/College-Assignment/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/1848-sum-of-unique-elements) |
 | [1983-maximum-population-year](https://github.com/ifaizrahman/College-Assignment/tree/master/1983-maximum-population-year) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ifaizrahman/College-Assignment/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/ifaizrahman/College-Assignment/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ifaizrahman/College-Assignment/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/ifaizrahman/College-Assignment/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/ifaizrahman/College-Assignment/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/ifaizrahman/College-Assignment/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/ifaizrahman/College-Assignment/tree/master/1205-defanging-an-ip-address) |
@@ -441,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ifaizrahman/College-Assignment/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ifaizrahman/College-Assignment/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
