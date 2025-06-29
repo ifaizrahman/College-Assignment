@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ifaizrahman/College-Assignment/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ifaizrahman/College-Assignment/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ifaizrahman/College-Assignment/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ifaizrahman/College-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ifaizrahman/College-Assignment/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ifaizrahman/College-Assignment/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ifaizrahman/College-Assignment/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ifaizrahman/College-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ifaizrahman/College-Assignment/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ifaizrahman/College-Assignment/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ifaizrahman/College-Assignment/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ifaizrahman/College-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
