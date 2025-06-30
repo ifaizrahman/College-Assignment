@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/1031-add-to-array-form-of-integer) |
 | [1168-duplicate-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ifaizrahman/College-Assignment/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1293-three-consecutive-odds](https://github.com/ifaizrahman/College-Assignment/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ifaizrahman/College-Assignment/tree/master/1528-kids-with-the-greatest-number-of-candies) |
