@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/ifaizrahman/College-Assignment/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
 | [1031-add-to-array-form-of-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/1031-add-to-array-form-of-integer) |
 | [1168-duplicate-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/1168-duplicate-zeros) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ifaizrahman/College-Assignment/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ifaizrahman/College-Assignment/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/ifaizrahman/College-Assignment/tree/master/1791-richest-customer-wealth) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/ifaizrahman/College-Assignment/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ifaizrahman/College-Assignment/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/ifaizrahman/College-Assignment/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ifaizrahman/College-Assignment/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ifaizrahman/College-Assignment/tree/master/2271-rearrange-array-elements-by-sign) |
