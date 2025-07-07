@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ifaizrahman/College-Assignment/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ifaizrahman/College-Assignment/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/ifaizrahman/College-Assignment/tree/master/0917-boats-to-save-people) |
+| [0978-valid-mountain-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/ifaizrahman/College-Assignment/tree/master/1031-add-to-array-form-of-integer) |
 | [1168-duplicate-zeros](https://github.com/ifaizrahman/College-Assignment/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ifaizrahman/College-Assignment/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
