@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ifaizrahman/College-Assignment/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/ifaizrahman/College-Assignment/tree/master/0475-heaters) |
 | [0503-next-greater-element-ii](https://github.com/ifaizrahman/College-Assignment/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ifaizrahman/College-Assignment/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ifaizrahman/College-Assignment/tree/master/0605-can-place-flowers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ifaizrahman/College-Assignment/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0525-contiguous-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/ifaizrahman/College-Assignment/tree/master/1848-sum-of-unique-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ifaizrahman/College-Assignment/tree/master/2308-divide-array-into-equal-pairs) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ifaizrahman/College-Assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ifaizrahman/College-Assignment/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/ifaizrahman/College-Assignment/tree/master/0525-contiguous-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ifaizrahman/College-Assignment/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/ifaizrahman/College-Assignment/tree/master/1983-maximum-population-year) |
 | [2102-find-the-middle-index-in-array](https://github.com/ifaizrahman/College-Assignment/tree/master/2102-find-the-middle-index-in-array) |
